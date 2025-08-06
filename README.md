@@ -18,10 +18,15 @@ This project uses a trained ML model to classify whether a given message is spam
 sms-spam-classifier/
 │
 ├── app.py # UI file to take input and predict
+
 ├── model.py # Script to train the model
+
 ├── model.pkl # Trained ML model
+
 ├── vectorizer.pkl # TF-IDF vectorizer
+
 ├── spam.csv # Dataset used for training
+
 ├── README.md # Project documentation
 
 How it Works
