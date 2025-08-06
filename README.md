@@ -37,6 +37,7 @@ The trained model and vectorizer are saved using pickle.
 The app.py loads them and takes user input to predict.
 
 Technologies Used
+
 Python
 
 Pandas, NumPy
