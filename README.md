@@ -38,7 +38,11 @@ The app.py loads them and takes user input to predict.
 
 Technologies Used
 Python
+
 Pandas, NumPy
+
 Scikit-learn
+
 Pickle
+
 [Optional: Streamlit / Tkinter / Flask] for UI
